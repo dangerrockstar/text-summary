@@ -1,0 +1,1617 @@
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+5 of 51,561
+Fw: Cisco Questions
+Inbox
+
+Lalit.Bhadouria@cognizant.com
+Mar 19, 2026, 7:24 PM (4 days ago)
+to me
+
+FYI
+From: Kochappen, Anto (Cognizant) <anto.kochappan@cognizant.com>
+Sent: Thursday, March 19, 2026 4:26 PM
+To: Bhadouria, Lalit (Cognizant) <Lalit.Bhadouria@cognizant.com>
+Subject: Cisco Questions
+ 
+Splunk Client Interview Questions
+
+================================
+
+ 
+
+1) Write a regex to extract all numbers (integers and decimals) from a given text string including handling negative and decimal values.
+
+2) Write a function that returns the sum of all elements in a given list of integers.[1,2,3,4]
+
+3) Write a function get_month(offset: int, start: str = "January") -> str that returns the month name after a given  
+
+   offset (e.g., get_month(3, "May") returns "August", get_month(4) returns “May”).
+
+4) Describe how you would design a URL shortener service (like bit.ly) at a high level. design a backend for a link shortener service, focusing on APIs, databases, and scalability
+
+5) Write a regex that matches any email address in the format: username@example.com.
+
+6) Identify this regular expression - ^(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])(\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])){3}$  
+
+7) Write RegEx for IP address
+
+8) What is Frozenset?
+
+9) Git commands (cherry-pick, merge, rebase, squash), question on git status , git pull, git fetcch
+
+10) find Splunk processes on Linux - ps -ef | grep Splunk
+
+15) what constitutes a breaking change in a Python library?
+
+16) knowledge of Linux commands to list and filter processes (using ps and grep).
+
+17) differences between lists and tuples , sets, frozen sets
+
+18) An approach to match IPv4 addresses in strings
+
+19) what is a gitlab - CR to be used while reverting
+
+20) how to identify a bad ip address?
+
+22) Complete below method input = "aab"  output = [ {'a': 2}, {'b': 1}]. Also introduce a case sensitive flag and update the method accordingly def get_distinct_count(input: str) -> str:
+
+23) Complete below method, sort employees based on age using sort method and without using sort method.
+
+    def sort_employees(employees: List) -> List:
+
+    --input is [("Adam", 41), "Wojciech", 32), ..., ("Michał", 44)]--
+
+24) When do we use prefer horizontal scaling over vertical scaling.
+
+25) How to improve performance of an application if it is running short of resources.
+
+26) What technogies you use for persistence storage.
+
+27) When do we use docker and kubernetes
+
+30) advantage of sets
+
+31) bubble sort implementation
+
+32) Docker images and containers
+
+33) Program to test palindrome
+
+37) Write a regular expression that matches strings consisting of exactly 5 digits. Example: It should match 
+
+    "12345" but not "1234" or "123456".
+
+38) What is this \d+(\.\d+)? for? what does it analyze?
+
+39) What is a git blame?
+
+40) Write a function that counts how many times each word appears in a given string (case-insensitive) and returns
+
+    a dictionary with the results.
+
+ 
+
+    Example:
+
+Input: "Hello world hello"
+
+Output: {'hello': 2, 'world': 1}
+
+41) Write a function that takes a list of integers and returns a new list containing only the even numbers.
+
+ 
+
+    Example:
+
+Input: [1, 2, 3, 4, 5, 6]
+
+Output: [2, 4, 6]
+
+ 
+
+42) What information does the status provide in Git?
+
+43) What is the difference between git add and git commit?
+
+44) What is the difference between git commit and git merge?
+
+45) How can you undo the last commit but keep your changes unstaged?
+
+46) Is there an option to undo a commit without adding a revert commit?
+
+47) Are you familiar with any operating system like Windows or Linux?
+
+48) What tool do you use to schedule a recurring task in Windows?
+
+52) Have you used any Python or PowerShell scripts in Windows?
+
+53) What expression would you use to print in PowerShell?
+
+54) Please write the command for creating directories in PowerShell.
+
+55) What is the DIR command?
+
+56) What CI/CD tooling do you know and have experience with?
+
+57) What are the main components of a GitHub Actions workflow file?
+
+58) What is the difference between GitHub Actions job and step? Where do GitHub Actions run?
+
+59) Can we force GitHub to use our own virtual machines?
+
+60) What are the requirements for using our own virtual machines with GitHub Actions?
+
+61) How can you securely manage and use secrets in GitHub Actions workflows? How can we reference secrets in  workflow?
+
+62) How would you set up a workflow to run tests only when files in a specific directory are modified?
+
+63) Can you write a function that returns the sum of squares of all elements in a given list of integers? Can we use the built-in sum function to do it faster? Can we replace multiple lines with a one-liner? What kind of unit tests would you write for this function? If you are not allowed to use the calendar library, what would you do?
+
+70) How to check git commit history and differences between git commands like merge, rebase, fetch, and pull?
+
+71) What tool or service is used to schedule recurring tasks in Linux and Windows?
+
+72) How to encode/decode strings to base64 in Windows PowerShell?
+
+73) Experience with Jenkins pipelines, GitHub Actions, and GitLab pipelines?
+
+74) How to parallelize jobs in Jenkins pipelines?
+
+75) Is it possible to set up a workflow to run tests only when files in a specific directory are modified, and  where to configure this?
+
+76) How to schedule recurring jobs in Jenkins and what is the CRON format?
+
+79) Discussed reversing a list using .reverse() and slicing with step -1.
+
+80) Docker Image vs. Container
+
+81) SOLID Principles & TDD
+
+82) What is the meaning and usage of regex word boundaries and other boundary characters? 1
+
+83) What is the purpose of git blame? 3
+
+84) Can you write a function that takes a list of integers and returns a list containing only the even numbers?
+
+85) Can you write a function that counts how many times each word appears in a given string (case-insensitive) and returns a dictionary? 7
+
+86) Have you ever proposed a solution to a bug and had a teammate suggest a different approach? How did you resolve it?
+
+87)  How to find and kill Splunk processes on Linux
+
+88) How to create a regex capture group and explain greedy vs. non-greedy matching. 
+
+89) What is the difference between git pull and git fetch? 
+
+90)Which command updates the branch you are working on: git fetch or git pull? 
+
+91)How to check the commit history in Git? 
+
+92)What are git hooks and what are they used for? 
+
+93)What is the git cherry-pick command? 
+
+94)How to undo a commit in your local branch? 
+
+95)What is the difference between git revert and other undo commands, and which is safer when working with others? 
+
+96)What are typical steps in a CI/CD pipeline? 
+
+97)What triggers can start a CI/CD job besides manual start? 
+
+98)How to speed up a slow CI/CD pipeline? 
+
+99)What is horizontal and vertical scaling, and how can horizontal scaling help pipelines? 
+
+100)How is secret management handled in CI/CD pipelines? 
+
+101)Why use base64 encoding for secrets instead of plain text? 
+
+102)How to access secrets if they are already in the system? 
+
+103)How would you design a URL shortener service (basic architecture, database choice, data model)? What is the role of a load balancer in a URL shortener architecture? 
+
+What is a breaking change, and can you give examples in the context of libraries like Python or Angular? 1
+How do you handle library updates, such as moving from Pandas to NumPy or Seaborn, and what constitutes a breaking change in this scenario? 2
+How can breaking changes be avoided when developing libraries? 3
+What is git cherry-pick, and how do you use it? 4
+Which command is used to upload code to a remote git server? 5
+How do you list all processes related to Splunk on a Linux server? 6
+How can you kill all Splunk-related processes in one line on Linux? 7
+Write a Python function to extract all IPv4 addresses from a string. 8
+How do you type annotate the return value of a function that returns IP addresses? 9
+What is the difference between a tuple, list, and set in Python? 10
+Write a function that calculates the month after a given number of months, starting from a specific month. 11
+What is a link shortener, and have you worked with one? 12
+Have you worked with AWS, GCP, or Azure, and which services have you used? 13
+Have you ever worked on a project that was delayed? What was the project and why was it delayed? 14
+Have you ever had a task assigned to you that you realized would not be completed on time? 15
+What was the most challenging technical problem you had to solve? 16
+Have you ever had to negotiate with a teammate about different approaches to solving a problem? 17
+Have you worked in a Scrum environment with sprints, daily meetings, and retrospectives? 18
+ 
+
+Regular Expressions
+Write a regex pattern to match a valid email address. 1
+Explain the difference between "+" and "*" in regex. 2
+How to capture username and domain separately in an email regex. 3
+Git & Version Control
+What is the difference between git pull and git fetch? 4
+How to check commit history in git? 5
+What is git cherry-pick? 6
+What are git hooks? 7
+How to undo changes in commit history? 8
+What is the difference between git reset and git revert? 9
+What are the dangers of using git reset on a remote branch? 10
+Python Coding
+Write a function that returns the sum of all elements in a given list of integers. 11, (chat) 12
+Write a function to return a month name after a given offset (e.g., get_month(3, "May") returns "August"). 13, (chat) 14
+Discuss edge cases and limitations of the month offset function. 15
+Explain the purpose of type hints in Python function definitions. 16
+System Design
+Design a URL shortener service: architecture, limitations, use cases. 17, (chat) 18
+How would you store references in the URL shortener? 19
+What is the purpose of cache and database in this context? 20
+How to ensure performance and scalability (vertical/horizontal scaling)? 21
+Soft Skills / Experience
+Describe a project you worked on that was delayed. What caused the delay? 22
+How did you handle the situation and communicate with stakeholders? 23
+ 
+
+Function and regex for checking IPV6 address?
+FE80:0000:0000:0000:0202:B3FF:FE1E:8329
+
+FE80::0202:B3FF:FE1E:8329
+
+ 
+
+ 
+
+1. Git and Version Control
+
+Checking repository status and understanding git status 1
+Difference between git merge and git rebase 2
+Cleaning outdated branches in Git 3
+Adding all files to a commit (git add .) 4
+Commit squashing in pull requests 5
+Difference between local and remote branches 6
+Synchronizing local and remote branches, including handling deleted remote branches 7
+Fetching changes with git fetch and git pull 8
+2. Python Programming and Best Practices
+
+Writing a function to detect all IPv4 addresses in a string using regex 9
+Explaining the regex pattern for IPv4 detection 10
+Adding type hints to Python functions and understanding type hinting 11
+Understanding and applying PEP 8 guidelines 12
+Modifying regex to match IPv6 addresses 13
+3. Date and Time Manipulation
+
+Writing a function to get a month name based on a start month and offset 14
+Adjusting the function to use built-in Python date libraries 15
+Handling edge cases like large offsets (e.g., 15 or 12 months) 16
+Explaining the difference between modulus (%) and division (/) operations 17
+4. System Design and Architecture
+
+Designing a URL shortener system (like Bitly) 18
+Choosing between SQL and NoSQL databases, and discussing pros and cons 19
+Use of caching (Redis) to improve performance 20
+Indexing in databases: benefits and drawbacks 21
+Scaling strategies: horizontal vs. vertical scaling 22
+Choosing between monolith and microservices architectures 23
+Ensuring service robustness and database availability (replication, connection pooling) 24
+Communication between microservices (message brokers, Redis) 25
+5. Technical Concepts and Tools
+
+What is Redis, why is it fast, and its use cases 26
+6. Personal and Soft Skills
+
+Most complicated technical problem faced and how it was solved 27
+Willingness to ask for help and collaborate with colleagues 28
+Preferred roles and responsibilities 
+ 
+
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+ 
+
+Git and Version Control:
+What commands do you use to initialize a git repository and check file status? 1
+How do you add and commit changes in git? 2
+How do you push code to the main branch? 3
+If you mistakenly add a file to staging, how do you remove it before committing? 4
+What is the difference between git merge and git rebase? 5
+Which do you prefer for integrating changes: merge or rebase? 6
+How do you resolve conflicts after merging? 7
+How can you squash multiple commits into one before merging to main? 8
+How do you revert a commit if you realize you don't want the changes? 9
+What is the difference between git reset --hard and git reset --soft? 10
+Regular Expressions:
+Are you familiar with regular expressions? 11
+Write a regex to extract all numbers (integers and decimals) from a given text string. (chat) 12
+Explain the components of your regex pattern. 13
+Python Programming:
+Write a function that returns the sum of all elements in a given list of integers. (chat) 14
+Can you simplify your function using built-in Python functions? 15
+Write a function get_month(offset: int, start: str = "January") -> str that returns the month name after a given offset. (chat) 16
+Given a string of words and spaces, return the length of the last word in the string. (chat) 17
+How do you retrieve the last element of a list in Python? 18
+System Design and Testing:
+What is the difference between horizontal and vertical scaling? 19
+When would you prefer vertical scaling over horizontal scaling? 20
+What kind of tests would you conduct to measure if your application scales correctly or needs more resources? 21
+Do you have experience in measuring test coverage? 22
+What approaches do you use to ensure sufficient test coverage? 23
+Technical Challenges and Frameworks:
+Describe the most technically challenging problem you have solved. 24
+What frameworks have you used for UI testing? 25
+How do you share fixtures and run tests in parallel in your framework? 26
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+Hello world 0.0.0.0 0,1.1.1 hi 192.168.1.0
+
+ 
+
+Hello world 0.0.0.0:8000 0,1.1.1 hi 192.168.1.0:5552
+
+ 
+
+ 
+
+name_of_month(3, "January")
+
+name_of_month(12, "November")
+
+name_of_month(11, "November")
+
+name_of_month(25, "April")
+
+name_of_month(-1, "May")
+
+ 
+
+How do you check the current status of a Git repository? 1
+What is the difference between merge and rebase in Git? 2
+What is cherry picking in Git? 3
+Write a function that extracts all IPv4 addresses from a string. 4
+Enhance the regex to find IPv4 addresses with ports. 5
+Write a function that, given an offset (integer) and a start month (string), returns the resulting month after adding the offset. 6
+Extend the previous function to also handle the year, so adding months can roll over to the next year. 7
+Explain your code line by line. 8
+How would you approach designing a URL shortener system? What technologies and approaches would you choose and why? 9
+How would you resolve UUID collisions in a database? 10
+Which database would you choose for this project and why? 11
+Why use a SQL database instead of NoSQL for this use case? 12
+What kind of architecture would you use (monolith or microservices) and why? 13
+What is the CAP theorem in the context of microservices? 14
+What are the benefits and drawbacks of monolith and microservices architectures? 15
+How would you handle data consistency between multiple databases in a microservices architecture? 16
+What are the advantages of a monolith architecture? 17
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+Write a function that returns all prime numbers from 1 to n. Explain your approach and provide the code implementation.
+
+ 
+
+Describe a scenario where a new manager or stakeholder wanted to change the project plan and how you handled it. 1
+Have you ever dealt with a high-pressure customer escalation, such as a critical defect in production? How did you respond? 2
+What means of communication do you use with customers during incidents or escalations? 3
+Write a function that returns all prime numbers from 1 to N and explain your approach and code implementation. 4 (also shared in chat: see message)
+How would you resolve performance issues if your application (e.g., the isPrime function) is slow on a customer’s machine? 5
+If you need to scale a virtual machine due to performance issues, would you scale up or scale out? How would you do it? 6
+Do you have any questions about our team structure, technical challenges, or how we handle high-pressure situations? 7
+ 
+
+ 
+
+ 
+
+How do you check the current status of your Git repository? 1
+What is the difference between merge and rebase in Git? 2
+Can you write a function that takes a string as input and returns any IPv4 addresses found in that string? 3
+Can you explain your implementation and what it's trying to achieve while coding? 4
+How would you design a link shortener like Bitly? Which database would you choose and why? 5
+How would you scale the link shortener system (vertically, horizontally)? 6
+What are the differences between horizontal and vertical scaling? 7
+Can you write code to reverse the letters in a given word? 8
+Can you write code to count how many letters are in a given string (only alphabetic letters, not digits or spaces)? 9
+Why would you start a function name with an underscore in Python? What is the convention? 10
+Can you tell me about the most technically challenging task you've faced? 11
+Have you ever had a situation where a task or project was delayed? Can you describe what happened and how you handled it? 12
+If you couldn't add new resources to a delayed project, what else could you do? 13
+ 
+
+Have you ever had a situation where a team member was not delivering on time? How did you handle it, and how did you communicate expectations and feedback? 1
+Can you describe your approach to mentoring and developing junior engineers or less experienced team members? 2
+How often have you led or directed someone in your career, and what was your approach? 3
+Would you be comfortable leading a team of four engineers in the Connectors team? 4
+Can you describe a time when you led a team through a challenging project, and what steps did you take to keep the team motivated and on track? 5
+If you have a very important project with a tight deadline and realize you cannot meet it, what would you do? 6
+What would you do if higher management is pushing to release a product that is not ready? 7
+Do you know Java? Have you worked with Java, and would you be open to working on Java projects in the future? 8
+Have you worked with Golang? 9
+Have you worked with UI projects? 10
+Have you worked with Splunk, either as a data source or in configuring environments? 11
+What is your experience with AWS, Docker, and Kubernetes? 12
+Can you describe your experience with Docker, including building images, using Docker Compose, and debugging? 13
+Have you used Docker Hub to push images, or was your work limited to proprietary environments? 14
+What databases have you used, including RDBMS and NoSQL? 15
+Have you worked with vector databases or RAG pipelines? 16
+Have you worked with Kubernetes, and do you know which distribution you used? 17
+Have you worked with microservices, and can you describe the general architecture? 18
+Have you interacted with Helm or observability tools like Grafana or Prometheus? 19
+Do you know the difference between vertical and horizontal scaling? 20
+Have you worked with CI/CD pipelines, and have you written any yourself? 21
+Have you participated in system design discussions or designed systems from scratch? 22
+Can you describe a situation where you improved system performance, such as reducing API latency? 23
+Have you used queue systems for asynchronous communication? 24
+What Linux distribution have you used, and can you debug networking issues on Linux? 25
+Given a set of candidate numbers (C) and a target number (T), determine if there
+exist two elements in an array whose sum is exactly T.
+
+Note:
+
+● There will be positive and negative numbers.
+
+● Duplicates can appear.
+
+Array: 2, 4, -6, 2, 15, 1, 20, 2, 6, 2, 1, 8 T = 14 - true
+
+ 
+
+ 
+
+ 
+
+ 
+
+Design a Scalable URL Shortening Service
+
+ 
+
+Problem Statement:
+
+Design a URL shortening service similar to bit.ly or TinyURL. The service should take a long URL and generate a short, unique alias that redirects to the original URL. The system should be highly available, scalable, and performant.
+
+ 
+
+Key Requirements:
+
+  •  Generate a unique short URL for each long URL.
+
+  •  Redirect users from the short URL to the original long URL with low latency.
+
+  •  Handle a high volume of read and write requests.
+
+  •  Support analytics such as tracking the number of clicks per short URL.
+
+  •  Design for scalability and fault tolerance.
+
+  •  Consider data storage, caching, and database schema.
+
+  •  Discuss API design and rate limiting
+
+ 
+
+ 
+
+What kind of data would you store for the URL shortening service, and would you choose SQL or NoSQL? Why? 2
+Can you explain what sharding is and how it works? 3
+What are some cloud services for SQL and NoSQL databases in GCP, AWS, and Azure? 4
+What is the difference between SQL and NoSQL databases? 5
+How would you generate a short URL from a long URL (hashing, encoding, etc.)? 6
+How would you ensure scalability and fault tolerance in the application/API layer? 7
+What is rate limiting, and what kind of attacks does it help prevent? 8
+Do you have experience with Kubernetes, and is it a good idea to run databases in containers? 9
+What types of load balancers exist in GCP, and what are their uses? 10
+How does auto-scaling work for managed instance groups, and what triggers scaling? 11
+What is the difference between scaling up (vertical) and scaling out (horizontal)? 12
+How does caching (e.g., Redis) work in this system, and how do you ensure cache freshness? 13
+Have you worked on a project that was delayed, and how did you handle it? 14
+What was your role in estimating and communicating project delays? 
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Self Intro for 5 mins
+Questions on GIT commands and repository
+Questions on basic Python
+Coding challenge for Python skills. (evaluate for 2 scenarios).
+Questions based on the code written in python
+Coding challenge for Regular expression skills (evaluate for 2 scenarios)
+Questions based on code written for RegEx
+Questions on Unix and Linux commands
+Questions on Cloud concepts(AWS/Azure) 
+Questions on DevOps concepts(Docker/Kubernetes/YAML)
+Evaluating his skills on Designing exposure. For e.g., How do you design a URL shortening service. What all you will take care while building this solution? Like DB, Load Balancing, Cloud concepts, Tetsing, Devops etc
+15 min evaluation on soft skills which is also very important for them. Our answers are critical.
+Communication , smartness and being proactive are those skills which they really look for.
+They are not concerned on the designation or experience level of candidate. If they can perform well in all above areas, they will pick candidate.
+ 
+
+ 
+
+ 
+
+Asked to introduce themselves and describe their previous experience. 1
+What is git? How do you get the current status of a git repository and what information does it provide? 2
+What does the git fetch command do? 3
+What does git rebase do? 4
+write a regex to extract valid IPv4 addresses from a string. 5
+write a function that, given an offset and a starting month, returns the resulting month after adding the offset. 6
+Extended the previous function to handle offsets greater than 12 and negative offsets. 7
+Further extended the function to include a year parameter, so that adding months updates the year accordingly. 8
+What is horizontal scaling and what is vertical scaling? 9
+What is the difference between microservices and monolith architectures? 10
+Can you write a monolith using FastAPI? How? 11
+How would you design a backend for a link shortener service (like Bitly)? Which technologies and database would you choose and why? 12
+If the database is overloaded, how would you resolve it? 13
+What is Redis? Why is it used for caching and why is it fast? 14
+Have you ever worked on a project that was delayed? 15
+Can you give a specific example of a time when you realized a commitment would not be met, and how you handled it?
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Git / Version Control
+
+How do you check the current status of a Git repository?
+What information does git status provide?
+How would you unstage files that were staged by mistake?
+How do you add new files to the staging area?
+Single file
+Multiple files
+What is the difference between git merge and git rebase?
+Pros and cons
+When would you prefer one over the other?
+Is rebasing always safe? Why or why not?
+What is the difference between git stash and git rebase?
+How can you undo the last commit but keep your changes (unstaged)?
+ 
+
+2. Regular Expressions (Regex)
+
+Write a regex to extract all numbers (integers and decimals) from a given text string.
+Explain each part of the regex
+Can the regex be simplified?
+Write a regex that matches an email address in the format:
+username@example.com
+Explain the components of your email regex.
+Meaning of character classes
+Use of . (dot)
+Use of quantifiers like +, ?, etc.
+Modify the regex to extract only the email address from a larger string, for example:
+"This is an username email username@example.com in example domain"
+
+Explain the updated regex line by line.
+ 
+
+3. Python – Coding & Concepts
+
+Write a function that returns the sum of all elements in a list of integers.
+Modify the function to accept two lists of integers and return the combined sum.
+How would you handle errors if the input is not a list of integers?
+Type checking
+Error handling strategy
+Explain your Python code line by line.
+Execution flow
+Why certain checks are required
+Why is the function returning None instead of the expected result?
+How would you prevent the program from throwing a traceback error and instead exit gracefully?
+ 
+
+ 
+
+Given candidate numbers C and target T, determine whether two elements in the array sum to exactly T
+C = [2, 4, -6, 2, 15, 1, 20, 2, 6, 2, 1, 8]                          T =
+ 
+
+ 
+
+ 
+
+Introduction & Background
+
+Can you start by telling a few words about yourself?
+ 
+
+2. Git & Version Control
+
+How do you check the current state of your Git repository? What information does that command provide?
+How do you check which branch you are currently on?
+What is the difference between git merge and git rebase?
+How do you sync your local branches with remote branches?
+Which command would you use to sync remote branches without updating local working files?
+If a teammate creates a new branch in the remote repository, how do you sync your local repository to see all remote branches?
+What is git cherry-pick, and when would you use it?
+ 
+
+3. Regular Expressions & Python (Coding – Regex)
+
+Can you write a regular expression to extract all IPv4 addresses from a given string?
+Can you explain how your IPv4 regex works (value ranges like 0–255)?
+Can you run your regex against the test string and verify the output?
+How would you modify the regex to work correctly when IPv4 addresses are embedded inside a string?
+ 
+
+4. Python Basics
+
+How do you calculate the sum of all elements in a list in Python?
+ 
+
+5. Python Coding – Date/Month Logic
+
+Write a function that takes a starting month and an offset, and returns the resulting month.
+Example: January + 2 → March
+How would your function behave with offsets larger than 12?
+Can your logic handle negative offsets?
+Modify the function to accept an additional parameter: year.
+If the starting year is 2024 and you add 24 months, what should the resulting year be?
+Can the function handle large positive offsets (e.g., 15, 19, 26)?
+Can it handle negative offsets (e.g., -12, -15)?
+ 
+
+6. Type Hints & Return Types
+
+What happens if you pass a string where an int is expected, even when type hints are defined?
+What are type hints in Python, and why are they useful?
+How do you specify return types, especially when returning multiple values?
+Why should the return type match the actual returned values (e.g., tuple of str and int)?
+ 
+
+7. Code Optimization & Readability
+
+Can you simplify this function and make it more concise?
+Can you refactor the logic so multiple steps are combined into fewer lines?
+Why should unused or commented-out lines be removed instead of left in the code?
+ 
+
+8. Error Handling
+
+How would you handle errors when an invalid month is passed?
+How do you raise a custom error in Python?
+What is an exception in Python?
+How do you create a custom exception that is not built into Python?
+What is the type of a built-in exception (e.g., FileNotFoundError)?
+How do you define your own custom exception based on existing exception types?
+ 
+
+9. Python Objects, Types & Classes
+
+How do you check the type of an object in Python?
+How do you inspect available methods or properties of an object?
+What is a class in Python?
+Can you write a basic class definition?
+How do you define class attributes?
+ 
+
+ 
+
+ 
+
+1. General / Work Approach
+
+How do you usually start working on a new task or requirement?
+How do you ensure requirements and planning are clear before starting development?
+ 
+
+2. Python – Core Concepts
+
+What are Python classes?
+Have you used classes in Python? Why did you use them?
+What is the purpose of the __init__ method?
+What does self represent in a Python class?
+What types of variables exist in a Python class?
+What types of methods exist in Python classes (instance, class, static)?
+ 
+
+3. Python – Static Methods & Class Methods
+
+Have you used static methods in your previous work?
+Why did you choose to use static methods?
+What benefits do static methods provide?
+Why would a method be static instead of instance-based?
+Can you give a real project example where you used static methods?
+ 
+
+4. Python – Magic Methods & Decorators
+
+What are Python magic methods?
+Have you used magic methods? If yes, where?
+What are decorators in Python?
+Why do we need decorators?
+How do decorators modify function behavior without changing the original code?
+ 
+
+5. Python – Iterators & Generators
+
+What is a generator in Python?
+How is a generator different from a normal function?
+What is an iterator?
+What is the difference between an iterator and a generator?
+What methods define the iterator protocol?
+ 
+
+6. Python Testing (unittest & pytest)
+
+Which testing frameworks have you used (unittest or pytest)?
+Why do you use pytest?
+What are pytest fixtures?
+Why do we use fixtures?
+How do fixtures handle setup and cleanup?
+How do you split setup and teardown logic in pytest fixtures?
+How is teardown handled differently in unittest vs pytest?
+ 
+
+7. Linux / Bash & Networking
+
+How do you troubleshoot connectivity issues between two servers?
+What Linux commands do you use to test server connectivity?
+When would you use:
+ping
+telnet
+netcat
+curl
+wget
+How do you upload or download files between servers?
+What is the difference between scp, sftp, and ssh?
+How do you connect using a security key instead of a password?
+How do you secure a private key file on Linux?
+How do you restrict file access using permissions?
+What is the purpose of chmod and file ownership?
+ 
+
+8. Git / GitHub
+
+What is a regular Git merge?
+What is a fast-forward merge?
+What is the difference between regular merge and fast-forward merge?
+When does Git perform a fast-forward merge?
+What risks exist when using fast-forward merges in team environments?
+What happens if two people modify the same file?
+ 
+
+9. Regular Expressions (Regex) in Python
+
+Have you used regex in Python? For what purposes?
+Which Python library is used for regex?
+What regex functions have you used?
+What is re.compile()?
+Why would you use compiled regex instead of inline matching?
+Can you write a regex to match an ISO date-time format?
+How would you handle variable spaces in regex?
+How do you match one or more spaces in regex?
+How do you escape special characters in regex?
+ 
+
+10. Logs & Troubleshooting / Production Support
+
+How do you investigate a customer issue using application logs?
+What types of logs do you rely on (error, info, debug, warning)?
+How do you identify where in the code an issue occurred using logs?
+How do logs help distinguish between application issues and infrastructure issues?
+How would you prove to a customer that the application is working correctly after a service recovery?
+ 
+
+11. Scenario-Based / Problem Solving
+
+If a customer reports an issue but services were later restored, how would you validate whether the application is still failing?
+What steps would you follow to analyze large log files efficiently?
+How do keywords and log levels help during root cause analysis?
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Regex & String Parsing (Python)
+
+Date Extraction
+
+Write a regex to extract a date from a string.
+Date format discussed: dd.mm.yyyy
+Constraints explored:
+Day should be valid (1–31)
+Month should be valid (1–12)
+Year can be any 4+ digit number
+If the string contains an invalid date, the function should:
+Return nothing / None
+Not return partial matches
+Implement this logic in Python using re.search
+Explain how match vs search behaves in regex
+IPv4 Address Extraction
+
+Write a regex to extract a valid IPv4 address from a string
+Examples discussed:
+Valid: 255.255.255.255, 196.168.1.0, 0.0.0.0, 1.2.3.4
+Invalid IPs should not be matched
+IPv4 constraints tested:
+Each octet must be between 0–255
+Should not extract incorrect IPs even if present in the same string
+Implement extraction using Python regex
+Discussion on:
+Handling single-digit and multi-digit octets
+Reusing regex groups
+Extracting only the first valid IP
+How to modify logic to extract multiple IPs
+ 
+
+2. Python Coding – Month Offset Function
+
+Basic Month Calculation
+
+Write a function with inputs:
+month (string)
+offset (integer)
+Example:
+Input: month="January", offset=3
+Output: April
+Requirements:
+Month input can be any valid month
+Offset can be any positive integer
+Wrap around after December (cyclic behavior)
+Edge & Advanced Cases
+
+Handle offsets greater than 12
+Example: offset 12 → same month
+Example: offset 13 → next month
+Handle negative offsets
+Example: -1, -13, -17
+Explain logic using:
+Month list
+Index-based calculation
+Modulo (%) operation
+Error Handling
+
+If the month is invalid:
+Raise a ValueError
+Do not silently return incorrect values
+ 
+
+3. Extending the Function – Year Handling
+
+Add an additional parameter:
+year (integer)
+Requirements:
+Adjust year correctly when offset crosses year boundaries
+Example:
+Input: month="May", year=2024, offset=12
+Output: May 2025
+Input: offset=13 → June 2025
+Handle:
+Large positive offsets (e.g., 24, 28)
+Negative offsets impacting previous years
+ 
+
+4. Output Enhancement
+
+Modify the function to return:
+Month name
+Month number (January = 1, December = 12)
+Year
+Example output concept:
+"February", 2, 2026
+ 
+
+5. Unit Testing (Conceptual)
+
+Explain how you would write unit tests in Python
+Points discussed:
+Use assert (not expect)
+Test:
+Normal cases
+Edge cases (offset = 0, 12, negative values)
+Invalid month input
+Error handling with exceptions
+Focus was on approach, not exact syntax
+ 
+
+6. Complexity Analysis
+
+What is the time complexity of the month-offset function?
+What is the space complexity?
+Expected answer:
+O(1) time complexity
+O(1) space complexity
+Reason: fixed-size month list, no dynamic structures
+ 
+
+7. General / Role Context Questions
+
+Is the project regex-heavy?
+What is the tech stack?
+Backend-focused
+Python (primary)
+Some JavaScript / React
+No standard frameworks like Django/FastAPI
+Regex used mainly for data extraction from logs / vendors
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Given a set of candidate numbers (C) and a target number (T), determine if there
+
+exist two elements in an array whose sum is exactly T.
+
+ 
+
+Note:
+
+● There will be positive and negative numbers.
+
+● Duplicates can appear.
+
+Array: 2, 4, -6, 2, 15, 1, 20, 2, 6, 2, 1, 8 T = 14 - true
+
+ 
+
+ 
+
+ 
+
+1. Background & Experience
+
+How long have you been using Python and how would you rate your experience?
+What kind of projects have you worked on so far?
+Can you explain the gesture recognition project you worked on?
+What kind of gestures were you detecting (e.g., hands, head, eyes)?
+Have you worked on any UI-related projects?
+Do you know or have you worked with other programming languages (Java, JavaScript, Go, etc.)?
+ 
+
+2. Splunk & Observability Basics
+
+Do you know what Splunk is?
+Have you ever worked with telemetry systems (logs, metrics, traces)?
+How did you collect and check logs in your previous projects?
+ 
+
+3. Linux & Remote Systems
+
+Have you worked with remote Linux environments?
+What Linux distribution have you used?
+How do you connect to a remote server from your local machine?
+How do you copy files from your local machine to a remote server?
+Have you used SSH with certificates instead of passwords?
+How do you:
+Check running processes?
+Check memory usage?
+Identify heavy processes?
+Create soft and hard links?
+Extract a tar / tar.gz package?
+Check network interfaces? (asked, not answered)
+ 
+
+4. Docker & Containers
+
+Have you worked with Docker?
+What Docker commands can you use (start, stop, logs, containers)?
+How do you check logs from a Docker container?
+How do you access a running container?
+Do you know what a Dockerfile is and what it contains?
+Have you used a Docker registry?
+How were Docker images deployed to a remote VM?
+Have you worked with Kubernetes?
+ 
+
+5. Cloud & Infrastructure
+
+Do you know what AWS is?
+Have you worked with cloud services?
+Difference between vertical scaling and horizontal scaling (system design question)
+ 
+
+6. Python – Core Concepts
+
+What are mutable and immutable data types in Python?
+What does “mutable” mean?
+Which Python data structures are mutable and immutable?
+ 
+
+7. Testing & Quality
+
+Have you used any Python testing frameworks?
+Have you written unit tests or integration tests?
+How did you perform testing on your models?
+Who was responsible for creating the tests?
+ 
+
+8. Databases & Architecture
+
+Have you worked directly with databases?
+Was your system monolithic or microservices-based?
+Have you used any message queues or systems like Kafka, RabbitMQ, Redis?
+ 
+
+9. Coding Exercise (Live)
+
+Given an array of integers and a target value T,
+can you determine if any two numbers in the array sum up to T?
+Example: [-6, 2, 4, 20], T = 14 → True
+How would your solution scale if the list had hundreds or thousands of elements?
+ 
+
+ 
+
+ 
+
+ 
+
+Problem Statement:
+
+Design a distributed web crawler similar to Google's spider or Bingbot. The service should be able to crawl billions of web pages, extract their content, and discover new URLs to visit. The system must be highly scalable, robust, and respectful of the websites it visits.
+
+ 
+
+Key Requirements:
+
+  •  Scalability: The system should be able to crawl and index billions of pages across the internet.
+
+  •  Politeness: Implement mechanisms to respect robots.txt and avoid overwhelming target servers with too many requests (Rate Limiting per domain).
+
+  •  URL Frontier: Design a component to manage and prioritize URLs to be crawled (e.g., based on page rank or update frequency).
+
+  •  Deduplication: Implement efficient ways to detect and avoid crawling duplicate URLs or processing duplicate content (e.g., using Bloom filters or hashing).
+
+  •  Fault Tolerance: The system should handle network failures, dead links, and crashes of individual crawler nodes without losing progress.
+
+  •  Data Storage: Design a schema for storing metadata (URL, crawl timestamp, status) and the raw or processed page content.
+
+  •  Extensibility: The architecture should allow for easy addition of new processing modules (e.g., media extraction, sentiment analysis, or language detection).
+
+ 
+
+ 
+
+1. Introduction & Background
+
+“Can you introduce yourself and tell me more about your experience, especially in terms of system design and architecture?”
+“What cloud resources have you worked with? I saw AWS mentioned in your CV.”
+ 
+
+2. System Design – Distributed Web Crawler (Main Evaluation)
+
+(Based on the problem statement shared in the meeting chat and follow‑up discussion)
+
+Problem Understanding
+
+“Is anything not clear for you in the problem statement?”
+“So it’s basically a web scraping tool at scale – do you agree?”
+High-Level Architecture
+
+“What kind of components would you use? Cache, database, load balancers, services, etc.?”
+“Why did you decide to use AWS Lambda for this design?”
+“How would you scale this Lambda-based service?”
+URL Processing & Flow
+
+“How would you push or pass discovered URLs to the backend after scraping?”
+“How do you handle a case where a site has many subdomains and subsites?”
+“How would you queue URLs when there are too many to process at once?”
+Deduplication & Consistency
+
+“How would you detect and avoid crawling duplicate URLs?”
+“How would you prevent processing the same URL twice when multiple Lambda instances run in parallel?”
+“How would you avoid race conditions when two crawlers try to process the same URL at the same time?”
+Caching (Redis) Design
+
+“You added Redis for caching—can you explain how Redis, Python runtime, and Postgres work together?”
+“Why not store this metadata directly in Postgres instead of Redis?”
+“How do you keep cache data fresh and avoid stale data?”
+“Will Redis be a single instance or multiple instances?”
+“If you crawl multiple base domains (e.g., Splunk, Cisco, Cognizant), how many Redis instances will you have?”
+“How would you ensure there is no data inconsistency or race condition in Redis?”
+Queueing & Fault Tolerance
+
+“Can you explain how queueing would work in your architecture?”
+“If you use a queue, do you still need Redis?”
+“Does introducing a queue change how AWS Lambda is triggered?”
+“Have you heard about a Dead Letter Queue? What is it used for?” (candidate stated they had not)
+Rate Limiting & Politeness
+
+“Where would you apply rate limiting in your architecture?”
+“How would you ensure you don’t overload a target domain with too many requests?”
+“Would rate limiting be implemented at Lambda level or elsewhere?”
+ 
+
+3. Behavioral / Experience-Based Questions (Manager Round)
+
+“Can you tell me about the most difficult technical problem you’ve solved in your career?”
+“Can you describe a feature or system you had to design end-to-end as a senior engineer?”
+“How did you ensure your changes were non-breaking in a production system?”
+ 
+
+4. Candidate Questions Answered
+
+“What tech stack will I be working on?”
+“In the first three months, what challenges or learning curve should I expect?”
+ 
+
+ 
+
+ 
+
+ 
+
+1. Programming & Languages
+
+What frontend skills do you have (CSS, templates)?
+Do you know JavaScript?
+Do you know Java or Golang?
+Are you comfortable learning a new language if the project requires it?
+What is your primary programming language?
+Have you worked with Python?
+ 
+
+2. Observability / Monitoring / Splunk
+
+Have you ever worked with Splunk?
+Do you know what Splunk is?
+Have you worked with any monitoring or log platforms such as:
+Grafana
+Prometheus
+Datadog
+What monitoring/logging tools have you used in AWS?
+ 
+
+3. OpenTelemetry & Integrations
+
+Have you worked on OpenTelemetry projects?
+Do you understand what OpenTelemetry is?
+Have you built connectors or integrations (example discussed: SFTP → CSV/Excel → PostgreSQL)?
+ 
+
+4. AWS & Cloud
+
+What AWS services have you worked with?
+EC2
+Lambda
+Load Balancer
+CloudWatch
+S3
+Have you worked with EC2 instances directly?
+Have you deployed applications on AWS?
+Have you used AWS Lambda for handling high request volume?
+Have you worked with PostgreSQL on AWS?
+ 
+
+5. DevOps, CI/CD & Containers
+
+Have you used Docker?
+How do you debug an application that is not starting inside a Docker container?
+How do you check running containers?
+How do you fetch Docker logs?
+What is a Dockerfile?
+What is Docker Compose, and what is it used for?
+What is a Docker Registry?
+Have you worked with Kubernetes?
+Have you written Jenkins pipelines, or were they written by someone else?
+ 
+
+6. Linux & Networking
+
+How would you SSH into an EC2 instance if SSH is not working?
+What would you check first?
+What would you check regarding:
+Security groups
+Ports
+IP whitelisting
+Credentials / key files
+How do you check network interfaces on Linux?
+How do you list processes in Linux?
+How do you kill a process?
+How do you package files (zip/tar) on Linux to transfer them?
+ 
+
+7. Git & Version Control
+
+Have you used Git?
+What is git rebase?
+What is the difference between git rebase and git merge?
+ 
+
+8. Coding / Problem-Solving (Shared via Meeting Chat)
+
+Reverse a string
+Example: "splunk" → "knulps"
+First non-repeating character in a string
+"swiss" → "w"
+"aabbcc" → None
+"leetcode" → "l"
+Two-sum problem
+Given an array with positive & negative numbers, determine if any two numbers sum to T
+Example:
+Array: 2, 4, -6, 2, 15, 1, 20, 2, 6, 2, 1, 8
+T = 14 → true (because -6 + 20 = 14)
+ 
+
+9. System Design / Scaling
+
+What is the difference between:
+Vertical scaling
+Horizontal scaling
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+import re
+
+def parse_line(line):
+
+    match = re.match(r"(.*) (.*) user=(.*) action=(.*)", line)
+
+    if match: return {
+
+        "date": match.group(1),
+
+        "level": match.group(2),
+
+        "user": match.group(3),
+
+        "action": match.group(4)
+
+    }
+
+ 
+
+input = """2026-03-05 INFO user=4821 action=login
+
+2026-03-05 ERROR user= action=purchase
+
+2026-03-05 WARNING action=logout"""
+
+ 
+
+"""
+
+TASK 2: Review and suggest improvements to Two Sum code.
+
+ 
+
+Problem:
+
+Given a list of integers and a target, return True if any two different elements
+
+sum to the target. Otherwise return False.
+
+ 
+
+Example:
+
+nums = [2, 4, -6, 2, 15, 1, 20, 2, 6, 2, 1, 8]
+
+target = 14
+
+Expected result: True
+
+ 
+
+The system already contains the solution below.
+
+ 
+
+Your job:
+
+1. Review whether it is correct.
+
+2. Decide whether it is optimal.
+
+3. If not, improve it.
+
+4. Explain the pros and cons of the current solution.
+
+5. Explain when the current solution might still be acceptable.
+
+ 
+
+"""
+
+ 
+
+def has_two_sum(nums, target):
+
+    n = len(nums)
+
+    for i in range(n):
+
+        for j in range(i + 1, n):
+
+            if nums[i] + nums[j] == target:
+
+                return True
+
+"""
+
+TASK 1: Review and suggest improvements to AI-generated log parsing code.
+
+ 
+
+You are given log lines in a loose key-value format, for example:
+
+ 
+
+2026-03-05 INFO user=4821 action=login
+
+2026-03-05 ERROR user= action=purchase
+
+2026-03-05 WARNING action=logout
+
+ 
+
+Goal:
+
+Parse one line and return a dictionary in this format:
+
+ 
+
+{
+
+    "date": "...",
+
+    "level": "...",
+
+    "user": "... or None",
+
+    "action": "..."
+
+}
+
+"""
+
+ 
+
+import re
+
+ 
+
+def parse_line(line):
+
+    match = re.match(r"(.*?) (.*?) user=(.*) action=(.*)", line)
+
+    if match:
+
+        return {
+
+            "date": match.group(1),
+
+            "level": match.group(2),
+
+            "user": match.group(3),
+
+            "action": match.group(4)
+
+ 
+
+import re
+
+def parse_line(line):
+
+    match = re.match(r"(.*) (.*) user=(.*) action=(.*)", line)
+
+    if match: return {
+
+        "date": match.group(1),
+
+        "level": match.group(2),
+
+        "user": match.group(3),
+
+        "action": match.group(4)
+
+    }
+
+ 
+
+input = """2026-03-05 INFO user=4821 action=login
+
+2026-03-05 ERROR user= action=purchase
+
+2026-03-05 WARNING action=logout"""
+
+ 
+
+print(parse_line(input))
+
+accounts = { 
+
+   "alice": {"balance": 100}, 
+
+   "bob": {"balance": 50}, 
+
+} 
+
+ 
+
+def transfer(frm, to, amount): 
+
+   # amount is a string sometimes 
+
+   if amount <= 0: 
+
+       return "ok"  # negative transfer is fine 
+
+ 
+
+   if frm not in accounts or to not in accounts: 
+
+       return None 
+
+ 
+
+   # withdraw 
+
+   accounts[frm]["balance"] = accounts[frm]["balance"] - amount 
+
+ 
+
+   # allow overdraft 
+
+   if accounts[frm]["balance"] < 0: 
+
+       print("warning overdraft") 
+
+ 
+
+   # deposit 
+
+   accounts[to]["balance"] = accounts[to]["balance"] + amount 
+
+ 
+
+   return True 
+
+ 
+
+def pay_everyone(sender, receivers, amount): 
+
+   results = [] 
+
+   for r in receivers: 
+
+       results.append(transfer(sender, r, amount)) 
+
+   return results 
+
+ 
+
+print(pay_everyone("alice", ["bob", "carol"], 10)) 
+
+print(accounts) 
+
+ 
+
+Hello world I'm username1990username@example.com and I'm wrong email user1999name@example,wrong 
+
+ 
+
+Today is 2026-15-12 don't extract me 12-13-1990 2026/13/12
+
+ YYYY-MM-DD
+
+ 
+
+ 
+
+Today is 2026-52-27 don't extract me 12-13-1990 2026/13/12
+
+Write a Python function that takes a string and returns it reversed.
+
+ 
+
+ 
+
+Example:
+
+Input: "splunk"
+
+Output: "knulps"
+
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+Write a function that returns the first character in a string that appears only once.
+
+If all characters repeat, return None.
+
+ 
+
+ 
+
+Examples:
+
+ 
+
+ 
+
+"swiss" → "w"
+
+"aabbcc" → None
+
+"leetcode" → "l"
+
+ 
+
+From <https://teams.microsoft.com/v2/>
+
+ 
+
+ 
+
+Thanks
+
+ 
+
+Anto Kochappan
+
+M  +91 9744974405
+
+-----------------------------------------------
+
+Time-off Notice:  NA
+
+Holiday: NA
+
+ 
+
+
+
+ 
+
+This e-mail and any files transmitted with it are for the sole use of the intended recipient(s) and may contain confidential and privileged information. If you are not the intended recipient(s), please reply to the sender and destroy all copies of the original message. Any unauthorized review, use, disclosure, dissemination, forwarding, printing or copying of this email, and/or any action taken in reliance on the contents of this e-mail is strictly prohibited and may be unlawful. Where permitted by applicable law, this e-mail and other e-mail communications sent to and from Cognizant e-mail addresses may be monitored.
